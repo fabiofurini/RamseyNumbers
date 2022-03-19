@@ -2,8 +2,8 @@
 
 This site contains accompanying material to the paper:
 
-> Benders Decomposition for Very Large Scale Partial Set Covering and Maximal Covering Location Problems  
-by Jean-Francois Cordeau, Fabio Furini and Ivana Ljubic. European Journal of Operational Research, https://doi.org/10.1016/j.ejor.2018.12.021.
+> New IP-based lower bounds for small Ramsey numbers
+using circulant graphs  by  Fabio Furini, Ivana Ljubic and Pablo San Segundo. Optimization Online.
 
 http://www.optimization-online.org/DB_FILE/2021/09/8578.pdf
 
