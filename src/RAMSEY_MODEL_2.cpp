@@ -747,8 +747,8 @@ void RAMSEY_MODEL_2_load(data *RAMSEY_instance)
 
 	if(RAMSEY_instance->PARAM_OPTIONS==2)
 	{
-		cout << "****THETA UPPER BOUND\t" << RAMSEY_instance->PARAM_M-1 << "\t****\n"<<endl;
-		RAMSEY_instance->ub[counter]=RAMSEY_instance->PARAM_M-1;
+		cout << "****THETA LOWER BOUND\t" << RAMSEY_instance->PARAM_M-1 << "\t****\n"<<endl;
+		RAMSEY_instance->lb[counter]=RAMSEY_instance->PARAM_M-1;
 	}
 
 	RAMSEY_instance->xctype[counter]='I';
