@@ -1,4 +1,4 @@
-Copyright (c) 2018, Fabio Furini, Ivana Ljubic and Jean-Francois Cordeau.
+Copyright (c) 2018, Fabio Furini, Ivana Ljubic and Pablo San Segundo.
 All rights reserved.
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
@@ -10,8 +10,9 @@ notice, this list of conditions and the following disclaimer in the
 documentation and/or other materials provided with the distribution.
 3. All advertising materials mentioning features or use of this software
 must reference the following publications:
-Benders Decomposition for Very Large Scale Partial Set Covering and Maximal Covering Location Problems
-by Jean-Francois Cordeau, Fabio Furini, Ivana Ljubic and . European Journal of Operational Research, https://doi.org/10.1016/j.ejor.2018.12.021.
+New IP-based lower bounds for small Ramsey numbers
+using circulant graphs
+by  Fabio Furini, Ivana Ljubic and Pablo San Segundo. Optimization Online.
 4. The name of the contributors may not be used to endorse or promote products
 derived from this software without specific prior written permission.
 THIS SOFTWARE IS PROVIDED BY THE CONTRIBUTORS ''AS IS'' AND ANY
